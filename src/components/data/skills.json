@@ -1,0 +1,57 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "/images/html.jpg"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "/images/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "/images/js.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "/images/React.webp"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "/images/node.png"
+  },
+  {
+    "title":"MySQL",
+    "imageSrc":"/images/MySQL.png"
+  },
+  {
+    "title": "BootStrap",
+    "imageSrc": "/images/boat.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "/images/tail.jpeg"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "/images/java.png"
+  },
+  {
+    "title": "DSA-With_Java",
+    "imageSrc": "/images/dsa-java.webp"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "/images/python.webp"
+  },
+  {
+    "title": "C",
+    "imageSrc": "/images/C.jpg"
+  },{
+    "title": "Power-BI",
+    "imageSrc": "/images/power-BI.jpg"
+  },
+  {
+    "title": "EXAL",
+    "imageSrc": "/images/Exal.png"
+  }
+]

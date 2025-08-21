@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "role": "Web Developer Intern",
+    "organisation": "Tender-Heart NGO",
+    "startDate": "July 2024",
+    "endDate": "September 2024",
+    "location": "Faridabad, near Bata Chowk Metro Station",
+    "experiences": [
+      "Developed the official website and WordPress-based e-commerce platform for Tender-Heart NGO.",
+      "Collaborated with a team of 10 members to deliver project milestones."
+    ],
+    "imageSrc": "/exprience/trH.png"
+  },
+  {
+    "id": 2,
+    "role": "Web Developer Intern",
+    "organisation": "Bharat Intern",
+    "startDate": "December 2023",
+    "endDate": "January 2024",
+    "location": "Remote (Work from Home)",
+    "experiences": [
+      "Built 3 major projects: Portfolio Website, Netflix Clone, and Weather App.",
+      "Utilized core web technologies including HTML, CSS, and JavaScript."
+    ],
+    "imageSrc": "/exprience/Bh.png"
+  }
+]

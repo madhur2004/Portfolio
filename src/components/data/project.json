@@ -1,0 +1,74 @@
+[
+  {
+    "key": 1,
+    "title": "Responsive-Website",
+    "imageSrc": "/images/projects/morden.webp",
+    "description": "This is a project made with complete HTML CSS JS BOOTSTRAP",
+    "demo": "https://madhur2004.github.io/Morden-website/",
+    "source": "https://github.com/madhur2004/Morden-website"
+  },
+  {
+    "key": 2,
+    "title": "WorldAtls",
+    "imageSrc": "/images/projects/world-Atls.jpeg",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://66f6673331537de854063d9c--merry-salmiakki-706dce.netlify.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 3,
+    "title": "Myntra-Functional-Website",
+    "imageSrc": "/images/myntra.jpg",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 4,
+    "title": "Netflix",
+    "imageSrc": "/images/projects/netflix.jpg",
+    "description": "This is a project made with complete HTML CSS",
+    "demo": "https://madhur2004.github.io/Create-a-Netflix-clone-website-using-HTML-and-CSS/",
+    "source": "https://github.com/madhur2004/Create-a-Netflix-clone-website-using-HTML-and-CSS"
+  },
+  {
+    "key": 5,
+    "title": "Tic-Tac-Toe",
+    "imageSrc": "/images/projects/tic-tac-toe.png",
+    "description": "This is a project made with complete HTML CSS JS",
+    "demo": "https://madhur2004.github.io/Tic-Tac-Toe-Game/",
+    "source": "https://github.com/madhur2004/Tic-Tac-Toe-Game"
+  },
+  {
+    "key": 6,
+    "title": "Sign-in",
+    "imageSrc": "/images/projects/sign-in.jpeg",
+    "description": "This is a project made with complete HTML CSS ",
+    "demo": "https://madhur2004.github.io/Create-a-Sign_In-Form-using-HTML-and-CSS/",
+    "source": "https://github.com/madhur2004/Create-a-Sign_In-Form-using-HTML-and-CSS"
+  },
+  {
+    "key": 7,
+    "title": "Portfolio",
+    "imageSrc": "/images/projects/portfolio.svg",
+    "description": "This is a project made with complete HTML CSS ",
+    "demo": "https://madhur2004.github.io/Create-a-Portfolio-Website-using-HTML-CSS/",
+    "source": "https://madhur2004.github.io/Create-a-Portfolio-Website-using-HTML-CSS/"
+  },
+  {
+    "key": 8,
+    "title": "Portfolio",
+    "imageSrc": "/images/projects/amazon.png",
+    "description": "This is a project made with complete HTML CSS ",
+    "demo": "https://madhur2004.github.io/Create-a-Amazon-clone-website-using-HTML-and-CSS/",
+    "source": "https://github.com/madhur2004/Create-a-Amazon-clone-website-using-HTML-and-CSS"
+  },
+  {
+    "key": 9,
+    "title": "Employee-Management-System",
+    "imageSrc": "/images/projects/Employee-management.png",
+    "description": "This is a project made with complete Python MYSQL(SQL) Connet with databse ",
+    "demo": "https://github.com/madhur2004/Employee_management_system",
+    "source": "https://github.com/madhur2004/Employee_management_system"
+  }
+]
