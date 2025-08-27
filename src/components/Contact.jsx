@@ -6,6 +6,11 @@ import { FaGithubSquare } from "react-icons/fa";
 import { SiGmail } from "react-icons/si";
 
 const Contact = () => {
+  const handleSubmit = (e) => {
+  e.preventDefault();
+  alert("Your message has been received. Our team will respond as soon as possible.");
+};
+
   return (
     <div className="container contact py-5 text-center">
       <h1 className="mb-4 fw-bold  text-warning">CONTACT ME</h1>
@@ -73,7 +78,7 @@ const Contact = () => {
           data-aos="fade-up"
           data-aos-duration="1200"
         >
-          <form className="contact-form">
+          <form className="contact-form" onSubmit={handleSubmit}>
             <div className="mb-3">
               <label htmlFor="name" className="form-label fw-semibold">
                 Name
