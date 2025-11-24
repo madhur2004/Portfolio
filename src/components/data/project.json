@@ -1,5 +1,37 @@
 [
   {
+    "key": 101,
+    "title": "Tech-Mind-Care",
+    "imageSrc": "/images/projects/Mind.png",
+    "description": "A complete full-stack project built using React, Node.js, Express, and MongoDB. Includes authentication, API integration, and full dynamic functionality.",
+    "demo": "https://mind-care-frontend-alpha.vercel.app/",
+    "source": "https://github.com/madhur2004"
+  },
+  {
+    "key": 102,
+    "title": "Document-Orchestrator-AI",
+    "imageSrc": "/images/projects/doxAI.png",
+    "description": "A powerful full-stack AI project with document processing, backend APIs, and advanced automation features. Built using modern full-stack technologies.",
+    "demo": "https://document-orchestrator-ai-mena.vercel.app/",
+    "source": "https://github.com/madhur2004"
+  },
+  {
+    "key": 103,
+    "title": "Resume-Builder",
+    "imageSrc": "/images/projects/resume.png",
+    "description": "A full-stack Resume Builder with authentication, form saving, live preview, and downloadable resume templates. Developed using React, Node.js, and Firebase.",
+    "demo": "https://frontend-resum-builder.vercel.app/",
+    "source": "https://github.com/madhur2004"
+  },
+  {
+    "key": 104,
+    "title": "Tech-Mart Shopping Website",
+    "imageSrc": "/images/projects/mart.png",
+    "description": "A frontend e-commerce website made using React.js and Tailwind CSS. Includes product listing, cart functionality, and smooth UI.",
+    "demo": "https://tech-mart-shoping-website.vercel.app/",
+    "source": "https://github.com/madhur2004"
+  },
+  {
     "key": 1,
     "title": "Responsive-Website",
     "imageSrc": "/images/projects/morden.webp",
