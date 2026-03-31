@@ -38,7 +38,7 @@
   "description": "A full-stack Todo Manager application with authentication, CRUD operations, and responsive UI. Built using React, Node.js, Express, and MongoDB.",
   "demo": "https://todo-manager-fullstack-gamma.vercel.app/home",
   "source": "https://github.com/madhur2004/todo-manager-fullstack"
-}
+},
   {
     "key": 1,
     "title": "Responsive-Website",
