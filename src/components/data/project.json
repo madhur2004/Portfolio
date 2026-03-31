@@ -32,6 +32,14 @@
     "source": "https://github.com/madhur2004"
   },
   {
+  "key": 105,
+  "title": "Todo-Manager-FullStack",
+  "imageSrc": "/images/projects/todo-App.png",
+  "description": "A full-stack Todo Manager application with authentication, CRUD operations, and responsive UI. Built using React, Node.js, Express, and MongoDB.",
+  "demo": "https://todo-manager-fullstack-gamma.vercel.app/home",
+  "source": "https://github.com/madhur2004/todo-manager-fullstack"
+}
+  {
     "key": 1,
     "title": "Responsive-Website",
     "imageSrc": "/images/projects/morden.webp",
