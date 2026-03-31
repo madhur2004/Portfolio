@@ -40,6 +40,14 @@
   "source": "https://github.com/madhur2004/todo-manager-fullstack"
 },
   {
+  "key": 106,
+  "title": "IT-Services-Ticket-Manager",
+  "imageSrc": "/images/projects/ticket-manager.png",
+  "description": "A full-stack IT Services Ticket Manager application with ticket creation, status tracking, and dashboard functionality. Built using modern React frontend with backend API integration.",
+  "demo": "https://it-services-tickect-frontend.vercel.app/",
+  "source": "https://github.com/madhur2004/IT_Services-Tickect_Frontend"
+},
+  {
     "key": 1,
     "title": "Responsive-Website",
     "imageSrc": "/images/projects/morden.webp",
